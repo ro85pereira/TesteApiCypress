@@ -1,0 +1,30 @@
+{
+  "name": "apicypress",
+  "version": "1.0.0",
+  "description": "Testes de API com a ferramenta Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ro85pereira/ApiCypress.git"
+  },
+  "keywords": [
+    "api",
+    "cypress"
+  ],
+  "author": "ro85pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ro85pereira/ApiCypress/issues"
+  },
+  "homepage": "https://github.com/ro85pereira/ApiCypress#readme",
+  "devDependencies": {
+    "cypress": "^13.14.2",
+    "eslint-plugin-cypress": "^3.5.0"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.2"
+  }
+}

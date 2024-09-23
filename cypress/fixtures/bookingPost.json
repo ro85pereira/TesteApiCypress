@@ -1,0 +1,11 @@
+{
+    "firstname" : "Rodrigo",
+    "lastname" : "Cabral",
+    "totalprice" : 400,
+    "depositpaid" : true,
+    "bookingdates" : {
+    "checkin" : "2024-09-23",
+    "checkout" : "2024-10-01"
+    },
+    "additionalneeds" : "Breakfast"
+          }  
